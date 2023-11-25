@@ -36,7 +36,7 @@ SpringSTS + JSP 직업추천 사이트 입니다.
 - 공지사항 게시판
 - FAQ 게시판
 
-관리자 관련 - [상세보기](https://github.com/psh153/whou/wiki/%EA%B4%80%EB%A6%AC%EC%9E%90-%EA%B4%80%EB%A0%A8)
+관리자 관련 - [상세보기](https://github.com/psh153/whou/wiki/%EA%B4%80%EB%A6%AC%EC%9E%90-%EA%B4%80%EB%A0%A8-&-%EC%B1%97%EB%B4%87)
 - 관리자 리스트
 - 관리자 회원가입
 - 검색어에 따른 직업 조회
