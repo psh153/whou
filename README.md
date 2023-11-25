@@ -28,19 +28,19 @@ SpringSTS + JSP 직업추천 사이트 입니다.
 - DB : Oracle 19
 
 ## 👨🏻‍💻 담당 기능
-3D 관련 - [상세보기]링크추가예정
+3D 관련 - [상세보기](https://github.com/psh153/whou/wiki/3D-%EA%B4%80%EB%A0%A8)
  - 3D 캐릭터 색상 변경
  - 직업분류별 캐릭터 아이템
 
-게시판 관련 - [상세보기]링크추가예정
+게시판 관련 - [상세보기](https://github.com/psh153/whou/wiki/%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B4%80%EB%A0%A8)
 - 공지사항 게시판
 - FAQ 게시판
 
-관리자 관련
+관리자 관련 - [상세보기](https://github.com/psh153/whou/wiki/%EA%B4%80%EB%A6%AC%EC%9E%90-%EA%B4%80%EB%A0%A8)
 - 관리자 리스트
 - 관리자 회원가입
 - 검색어에 따른 직업 조회
-- 챗봇 수정
+- 챗봇
 
 ---
 
