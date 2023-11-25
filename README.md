@@ -1,4 +1,4 @@
-# whou
+# whoU
 SpringSTS + JSP 직업추천 사이트 입니다.
 
 >메인화면 
