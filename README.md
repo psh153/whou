@@ -46,7 +46,12 @@ SpringSTS + JSP 직업추천 사이트 입니다.
 
 ### 그 외 📣
 <details>
+ <summary>프로젝트 후기</summary>
+ 
+ ![whou](https://github.com/psh153/whou/assets/105466406/3a4ba476-dd52-4f4e-b08e-391f0e942ada)
+</details>
+<details>
 <summary>우수상</summary>
-
-
+ 
+![IMG_7919](https://github.com/psh153/whou/assets/105466406/21ae1fa1-514b-4b7f-9826-ff36c01ab4d4)
 </details>
